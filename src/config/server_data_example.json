@@ -1,0 +1,18 @@
+[
+    {
+        "server_name": "Optional - This is for the file's readability.",
+        "client_token": "",
+        "textbook-search-channels": [
+            {
+                "channel_name": "Optional - This is for the file's readability.",
+                "channel_id": ""
+            }
+        ],
+        "resource-channels": [
+            {
+                "channel_name": "Optional - This is for the file's readability.",
+                "channel_id": ""
+            }
+        ]
+    }
+]

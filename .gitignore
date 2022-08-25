@@ -1,0 +1,6 @@
+# Node.js
+node_modules
+package-lock.json
+
+# Sensitive Files
+src/config/server_data.json

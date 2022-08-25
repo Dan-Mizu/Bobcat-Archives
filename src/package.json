@@ -1,0 +1,17 @@
+{
+    "name": "threaded-support-bot",
+    "version": "1.0.0",
+    "description": "Discord bot that handles support channels by enforcing threads.",
+    "main": "main.js",
+    "scripts": {
+        "start": "nodemon main.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "DanMizu",
+    "license": "GNU v3",
+    "dependencies": {
+        "axios": "^0.27.2",
+        "discord.js": "^13.8.1",
+        "nodemon": "^2.0.18"
+    }
+}
